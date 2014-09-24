@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Salir del escritorio
+Comment=Salir del escritorio
+Exec=xfce4-session-logout
+Icon=xfce4-session
+Path=
+Terminal=False
+StartupNotify=true
+OnlyShowIn=KDE
